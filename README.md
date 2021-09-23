@@ -3,7 +3,7 @@
 1. How to use one spring boot project in another project?
    - Say you have project A and B and you want to use B jar in A.
    - in A you add a pom dependency as :
-   
+>    
       	<dependency>
 			<groupId>com.cdk.B.sdk</groupId>
 			<artifactId>BArtifact</artifactId>
